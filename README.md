@@ -1,21 +1,53 @@
 # Hi there, I'm Thanh Luong! 👋
 
-Welcome to my GitHub profile! I'm an office worker with a passion for connecting businesses and analyzing business situations to come up with the best solutions.
+I'm an internal accountant with a strong passion for calculations, planning, and business analysis. I love working on strategies to improve business outcomes and enhance operational efficiency.
 
-## About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **office staff**
-- 🌱 I’m currently learning **business administration**
-- 👯 I’m looking to collaborate on **financial and business analysis**
-- 💬 Ask me about **business market**
-- 📫 How to reach me: thanhluongaa8@gmail.com
-- ⚡ Fun fact: **[I really love numbers, finding ways to help businesses do better]**
+- 💼 I’m currently working as **an internal accountant**
+- 🎯 Passionate about **business planning, analysis, and providing solutions to improve performance**
+- 🧠 Skilled in **using office software**, **negotiation**, and **problem-solving**
+- 🌱 I’m continuously learning **new strategies for financial analysis and business management**
 
+## 🛠️ Skills & Expertise
 
-## Get in Touch
+- **Office Software**: Microsoft Excel, Word, PowerPoint, and more
+- **Business Tools**: SAP, QuickBooks, Xero, and other accounting systems
+- **Core Skills**: Financial reporting, budgeting, forecasting, and cash flow management
+- **Soft Skills**: Negotiation, problem-solving, team collaboration, and decision-making
 
-- LinkedIn: [thanh luong2611](https://www.linkedin.com/in/thanhluong2611/)
-- Zalo: [Thanh Lương](https://zalo.me/0931943571)
-- SĐT: 0931943571
+## 🎯 What I Do
 
-Thanks for visiting my profile!
+As an internal accountant, my focus is on:
+
+- 📊 **Analyzing business performance**: I conduct financial analysis to identify strengths, weaknesses, and opportunities for improvement.
+- 🧾 **Budgeting and planning**: I create detailed financial plans to help businesses allocate resources effectively.
+- 💡 **Providing solutions**: I offer actionable insights to improve profitability and streamline operations.
+- 🤝 **Collaborating with teams**: I work closely with departments to ensure financial goals are aligned with business objectives.
+
+## 🌟 My Approach
+
+I believe in a data-driven approach to decision-making and enjoy solving complex business problems through thorough analysis and planning. Whether it's improving cash flow, reducing expenses, or finding new growth opportunities, I'm always looking for ways to help businesses succeed.
+
+## 📫 Get in Touch
+
+- 📧 Email: thanhluongaa8@gmail.com
+- 💼 LinkedIn: [thanh luong2611](https://www.linkedin.com/in/thanh-luong2611)
+
+## 🌱 Continuous Learning
+
+I’m always looking to enhance my skills and knowledge in:
+
+- Advanced financial analysis techniques
+- Business strategy and management
+- The latest accounting software and tools
+
+## 🎨 Hobbies & Interests
+
+- 🏢 Interested in business management and entrepreneurship
+- 📊 Passionate about finance and investment
+- 🧩 Love solving problems and finding new challenges
+
+---
+
+Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or discuss business and finance solutions.
