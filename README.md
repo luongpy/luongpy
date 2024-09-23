@@ -32,7 +32,7 @@ I believe in a data-driven approach to decision-making and enjoy solving complex
 ## 📫 Get in Touch
 
 - 📧 Email: thanhluongaa8@gmail.com
-- 💼 LinkedIn: [thanh luong2611](https://www.linkedin.com/in/thanh-luong2611)
+- 💼 LinkedIn: [thanh luong2611](https://www.linkedin.com/in/thanhluong2611/)
 
 ## 🌱 Continuous Learning
 
