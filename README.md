@@ -12,7 +12,7 @@ I'm an internal accountant with a strong passion for calculations, planning, and
 ## 🛠️ Skills & Expertise
 
 - **Office Software**: Microsoft Excel, Word, PowerPoint, and more
-- **Business Tools**: SAP, QuickBooks, Xero, and other accounting systems
+- **Business Tools**: SAP, QuickBooks, Misa, and other accounting systems
 - **Core Skills**: Financial reporting, budgeting, forecasting, and cash flow management
 - **Soft Skills**: Negotiation, problem-solving, team collaboration, and decision-making
 
