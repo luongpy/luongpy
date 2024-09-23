@@ -1,4 +1,4 @@
-# Hi there, I'm Thanh Luong! 👋
+![image](https://github.com/user-attachments/assets/0499da21-abbe-450c-9f73-acdacc930ab8)# Hi there, I'm Thanh Luong! 👋
 
 I'm an internal accountant with a strong passion for calculations, planning, and business analysis. I love working on strategies to improve business outcomes and enhance operational efficiency.
 
@@ -33,7 +33,7 @@ I believe in a data-driven approach to decision-making and enjoy solving complex
 
 - 📧 Email: thanhluongaa8@gmail.com
 - 💼 LinkedIn: [thanh luong2611](https://www.linkedin.com/in/thanhluong2611/)
-
+- 🎯 Zalo: [Thanh Luong](https://zalo.me/0931943571)
 ## 🌱 Continuous Learning
 
 I’m always looking to enhance my skills and knowledge in:
