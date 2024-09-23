@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a software developer with a passion for artifi
 
 ## About Me
 
-- 🔭 I’m currently working on **a machine learning project**
-- 🌱 I’m currently learning **blockchain technology**
-- 👯 I’m looking to collaborate on **AI and blockchain-based projects**
-- 💬 Ask me about **Python and machine learning**
+- 🔭 I’m currently working on **office staff**
+- 🌱 I’m currently learning **business administration**
+- 👯 I’m looking to collaborate on **financial and business analysis**
+- 💬 Ask me about **business market**
 - 📫 How to reach me: thanhluongaa8@gmail.com
-- ⚡ Fun fact: **[Something Interesting about You]**
+- ⚡ Fun fact: **[I really love numbers, finding ways to help businesses do better]**
 
 ## My GitHub Stats
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for artifi
 
 ## Get in Touch
 
-- LinkedIn: [thanh luong2611](https://www.linkedin.com/in/thanh-luong2611)
+- LinkedIn: [thanh luong2611](https://www.linkedin.com/in/thanhluong2611/)
 - Portfolio: [Your Personal Website or Portfolio](https://your-website.com)
 
 Thanks for visiting my profile!
