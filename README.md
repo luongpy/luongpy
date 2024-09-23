@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0499da21-abbe-450c-9f73-acdacc930ab8)# Hi there, I'm Thanh Luong! 👋
+ Hi there, I'm Thanh Luong! 👋
 
 I'm an internal accountant with a strong passion for calculations, planning, and business analysis. I love working on strategies to improve business outcomes and enhance operational efficiency.
 
