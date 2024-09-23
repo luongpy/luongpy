@@ -1,6 +1,6 @@
 # Hi there, I'm Thanh Luong! 👋
 
-Welcome to my GitHub profile! I'm a software developer with a passion for artificial intelligence and open-source projects.
+Welcome to my GitHub profile! I'm an office worker with a passion for connecting businesses and analyzing business situations to come up with the best solutions.
 
 ## About Me
 
@@ -11,17 +11,11 @@ Welcome to my GitHub profile! I'm a software developer with a passion for artifi
 - 📫 How to reach me: thanhluongaa8@gmail.com
 - ⚡ Fun fact: **[I really love numbers, finding ways to help businesses do better]**
 
-## My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## Technologies & Tools I Use
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## Get in Touch
 
 - LinkedIn: [thanh luong2611](https://www.linkedin.com/in/thanhluong2611/)
-- Portfolio: [Your Personal Website or Portfolio](https://your-website.com)
+- Zalo: [Thanh Lương](https://zalo.me/0931943571)
+- SĐT: 0931943571
 
 Thanks for visiting my profile!
